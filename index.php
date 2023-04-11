@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Kuis 1 </title>
+    <title> hadiah </title>
     <style>
         .wrap {
             background-color: rgba(255, 255, 255, 0.7);
